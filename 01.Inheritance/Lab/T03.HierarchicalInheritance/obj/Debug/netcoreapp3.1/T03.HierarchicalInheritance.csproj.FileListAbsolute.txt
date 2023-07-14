@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\T03.HierarchicalInheritance.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\T03.HierarchicalInheritance.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\T03.HierarchicalInheritance.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\T03.HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\T03.HierarchicalInheritance.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\T03.HierarchicalInheritance.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\T03.HierarchicalInheritance.genruntimeconfig.cache

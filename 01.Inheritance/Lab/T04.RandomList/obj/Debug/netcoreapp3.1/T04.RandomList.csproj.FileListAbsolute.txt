@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\bin\Debug\netcoreapp3.1\T04.RandomList.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\bin\Debug\netcoreapp3.1\T04.RandomList.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\bin\Debug\netcoreapp3.1\T04.RandomList.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\bin\Debug\netcoreapp3.1\T04.RandomList.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\bin\Debug\netcoreapp3.1\T04.RandomList.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\bin\Debug\netcoreapp3.1\T04.RandomList.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T04.RandomList\obj\Debug\netcoreapp3.1\T04.RandomList.genruntimeconfig.cache

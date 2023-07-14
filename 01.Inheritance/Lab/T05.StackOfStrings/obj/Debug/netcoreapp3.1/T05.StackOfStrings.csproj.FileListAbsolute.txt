@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\bin\Debug\netcoreapp3.1\T05.StackOfStrings.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\bin\Debug\netcoreapp3.1\T05.StackOfStrings.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\bin\Debug\netcoreapp3.1\T05.StackOfStrings.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\bin\Debug\netcoreapp3.1\T05.StackOfStrings.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\bin\Debug\netcoreapp3.1\T05.StackOfStrings.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\bin\Debug\netcoreapp3.1\T05.StackOfStrings.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceLab\T05.StackOfStrings\obj\Debug\netcoreapp3.1\T05.StackOfStrings.genruntimeconfig.cache
