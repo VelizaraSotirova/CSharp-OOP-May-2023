@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\bin\Debug\netcoreapp3.1\T04.Team.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\bin\Debug\netcoreapp3.1\T04.Team.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\bin\Debug\netcoreapp3.1\T04.Team.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\bin\Debug\netcoreapp3.1\T04.Team.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\bin\Debug\netcoreapp3.1\T04.Team.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\bin\Debug\netcoreapp3.1\T04.Team.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationLab\T04.Team\obj\Debug\netcoreapp3.1\T04.Team.genruntimeconfig.cache
