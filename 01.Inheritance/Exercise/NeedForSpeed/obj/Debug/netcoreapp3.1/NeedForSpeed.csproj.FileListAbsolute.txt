@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

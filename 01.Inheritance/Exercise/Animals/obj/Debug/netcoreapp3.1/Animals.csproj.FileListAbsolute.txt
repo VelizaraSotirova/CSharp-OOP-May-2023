@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

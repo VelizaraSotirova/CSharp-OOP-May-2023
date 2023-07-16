@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\1.Inheritance\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache
