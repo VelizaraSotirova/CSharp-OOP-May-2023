@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\bin\Debug\netcoreapp3.1\T04.PizzaCalories.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\bin\Debug\netcoreapp3.1\T04.PizzaCalories.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\bin\Debug\netcoreapp3.1\T04.PizzaCalories.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\bin\Debug\netcoreapp3.1\T04.PizzaCalories.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\bin\Debug\netcoreapp3.1\T04.PizzaCalories.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\bin\Debug\netcoreapp3.1\T04.PizzaCalories.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T04.PizzaCalories\obj\Debug\netcoreapp3.1\T04.PizzaCalories.genruntimeconfig.cache

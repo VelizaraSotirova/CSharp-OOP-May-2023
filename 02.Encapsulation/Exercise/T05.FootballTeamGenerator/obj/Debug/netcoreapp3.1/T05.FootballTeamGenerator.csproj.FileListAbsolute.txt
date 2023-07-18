@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\T05.FootballTeamGenerator.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\T05.FootballTeamGenerator.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\T05.FootballTeamGenerator.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\T05.FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\T05.FootballTeamGenerator.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\T05.FootballTeamGenerator.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\T05.FootballTeamGenerator.genruntimeconfig.cache

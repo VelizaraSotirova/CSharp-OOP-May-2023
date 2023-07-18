@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\bin\Debug\netcoreapp3.1\T02.AnimalFarm.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\bin\Debug\netcoreapp3.1\T02.AnimalFarm.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\bin\Debug\netcoreapp3.1\T02.AnimalFarm.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\bin\Debug\netcoreapp3.1\T02.AnimalFarm.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\bin\Debug\netcoreapp3.1\T02.AnimalFarm.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\bin\Debug\netcoreapp3.1\T02.AnimalFarm.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\2.Encapsulation\EncapsulationExercise\T02.AnimalFarm\obj\Debug\netcoreapp3.1\T02.AnimalFarm.genruntimeconfig.cache
