@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\bin\Debug\netcoreapp3.1\T03.Telephony.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\bin\Debug\netcoreapp3.1\T03.Telephony.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\bin\Debug\netcoreapp3.1\T03.Telephony.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\bin\Debug\netcoreapp3.1\T03.Telephony.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\bin\Debug\netcoreapp3.1\T03.Telephony.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\bin\Debug\netcoreapp3.1\T03.Telephony.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\3.Interfaces and Abstraction\InterfacesAndAbstractionExercise\T03.Telephony\obj\Debug\netcoreapp3.1\T03.Telephony.genruntimeconfig.cache
