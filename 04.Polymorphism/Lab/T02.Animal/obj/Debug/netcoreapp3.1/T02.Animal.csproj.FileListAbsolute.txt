@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\bin\Debug\netcoreapp3.1\T02.Animal.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\bin\Debug\netcoreapp3.1\T02.Animal.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\bin\Debug\netcoreapp3.1\T02.Animal.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\bin\Debug\netcoreapp3.1\T02.Animal.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\bin\Debug\netcoreapp3.1\T02.Animal.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\bin\Debug\netcoreapp3.1\T02.Animal.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\Polymorphism\T02.Animal\obj\Debug\netcoreapp3.1\T02.Animal.genruntimeconfig.cache
