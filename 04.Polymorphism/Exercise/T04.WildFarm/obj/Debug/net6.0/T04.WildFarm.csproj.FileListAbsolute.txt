@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\bin\Debug\net6.0\T04.WildFarm.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\bin\Debug\net6.0\T04.WildFarm.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\bin\Debug\net6.0\T04.WildFarm.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\bin\Debug\net6.0\T04.WildFarm.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\bin\Debug\net6.0\T04.WildFarm.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\refint\T04.WildFarm.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\T04.WildFarm.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\4.Polymorphism\PolymorphismExercise\T04.WildFarm\obj\Debug\net6.0\ref\T04.WildFarm.dll
