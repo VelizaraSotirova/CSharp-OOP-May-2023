@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\bin\Debug\net6.0\T02.EnterNumbers.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\bin\Debug\net6.0\T02.EnterNumbers.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\bin\Debug\net6.0\T02.EnterNumbers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\bin\Debug\net6.0\T02.EnterNumbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\bin\Debug\net6.0\T02.EnterNumbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\refint\T02.EnterNumbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\T02.EnterNumbers.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\5.ExceptionHandling\ExceptionHandling\T02.EnterNumbers\obj\Debug\net6.0\ref\T02.EnterNumbers.dll
