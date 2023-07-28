@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\bin\Debug\net6.0\T03.MissionPrivateImpossible.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\bin\Debug\net6.0\T03.MissionPrivateImpossible.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\bin\Debug\net6.0\T03.MissionPrivateImpossible.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\bin\Debug\net6.0\T03.MissionPrivateImpossible.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\bin\Debug\net6.0\T03.MissionPrivateImpossible.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\refint\T03.MissionPrivateImpossible.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\T03.MissionPrivateImpossible.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T03.MissionPrivateImpossible\obj\Debug\net6.0\ref\T03.MissionPrivateImpossible.dll

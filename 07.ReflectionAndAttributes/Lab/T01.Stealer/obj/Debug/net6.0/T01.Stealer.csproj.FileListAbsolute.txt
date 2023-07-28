@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\bin\Debug\net6.0\T01.Stealer.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\bin\Debug\net6.0\T01.Stealer.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\bin\Debug\net6.0\T01.Stealer.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\bin\Debug\net6.0\T01.Stealer.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\bin\Debug\net6.0\T01.Stealer.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\refint\T01.Stealer.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\T01.Stealer.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T01.Stealer\obj\Debug\net6.0\ref\T01.Stealer.dll

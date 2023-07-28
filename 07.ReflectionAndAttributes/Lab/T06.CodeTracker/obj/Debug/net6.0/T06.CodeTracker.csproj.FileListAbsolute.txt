@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\bin\Debug\net6.0\T06.CodeTracker.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\bin\Debug\net6.0\T06.CodeTracker.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\bin\Debug\net6.0\T06.CodeTracker.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\bin\Debug\net6.0\T06.CodeTracker.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\bin\Debug\net6.0\T06.CodeTracker.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\refint\T06.CodeTracker.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\T06.CodeTracker.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T06.CodeTracker\obj\Debug\net6.0\ref\T06.CodeTracker.dll

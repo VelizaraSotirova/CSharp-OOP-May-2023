@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\bin\Debug\net6.0\T02.HighQualityMistakes.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\bin\Debug\net6.0\T02.HighQualityMistakes.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\bin\Debug\net6.0\T02.HighQualityMistakes.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\bin\Debug\net6.0\T02.HighQualityMistakes.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\bin\Debug\net6.0\T02.HighQualityMistakes.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\refint\T02.HighQualityMistakes.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\T02.HighQualityMistakes.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesLab\T02.HighQualityMistakes\obj\Debug\net6.0\ref\T02.HighQualityMistakes.dll
