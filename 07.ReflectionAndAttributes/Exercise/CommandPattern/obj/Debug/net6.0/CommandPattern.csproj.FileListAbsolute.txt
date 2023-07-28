@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\04.OOP\8.Reflection and Attributes\ReflectionAndAttributesExercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
